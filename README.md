@@ -1,6 +1,6 @@
 # Red Hat Solutions - Infrastructure Migration
 
-This repo concains the documents, playbooks and info used for enablement for the Red Hat Infrastructure Migration solution a.k.a. IMS, for which you can find more info here: 
+This repo contains the documents, playbooks and info used for enablement for the Red Hat Infrastructure Migration solution a.k.a. IMS, for which you can find more info here: 
 
 [![Open Your Possibilities Video](https://img.youtube.com/vi/wtBY4Dhe8d4/0.jpg)](https://red.ht/possibilities)
 
